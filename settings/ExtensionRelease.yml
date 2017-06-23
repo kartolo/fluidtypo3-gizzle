@@ -2,4 +2,5 @@ NamelessCoder\GizzleTYPO3Plugins:
   NamelessCoder\GizzleTYPO3Plugins\GizzlePlugins\ExtensionRepositoryReleasePlugin:
     enabled: true
     directory: /tmp/
+    gitCommand: git
 
